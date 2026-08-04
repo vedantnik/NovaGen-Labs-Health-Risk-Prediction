@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="images/banner.png" width="100%">
-</p>
-
 <h1 align="center">🩺 NovaGen Labs: Lifestyle-Based Health Risk Prediction</h1>
 
 <p align="center">
@@ -9,14 +5,8 @@ Predicting Health Risk from Lifestyle Questionnaire Responses using Machine Lear
 </p>
 
 <p align="center">
-
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
-
-![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-green)
-
-![License](https://img.shields.io/badge/License-MIT-red)
+  
+![Python](https://img.shields.io/badge/Python-3.11-blue) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange) ![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-green) ![License](https://img.shields.io/badge/License-MIT-red)
 
 </p>
 
@@ -333,18 +323,6 @@ NovaGen-Labs-Health-Risk-Prediction/
 - Add support for real-time questionnaire-based predictions.
 ---
 
-# 📷 Project Preview
-
-*(Add your visualizations here)*
-
-- Correlation Heatmap
-- Feature Importance
-- ROC Curve
-- Confusion Matrix
-- Precision-Recall Curve
-- Model Comparison
-
----
 
 # ⚠ Disclaimer
 
